@@ -2,9 +2,9 @@
 
 In today’s fast-paced development environment, delivering high-quality software quickly is non-negotiable. Continuous Integration and Continuous Deployment (CI/CD) pipelines have become essential for automating builds, tests, and deployments. However, without effective [Playwright test execution](https://www.royalcyber.com/company/contact-us/), teams risk releasing buggy code.
 
-Playwright automated testing is a game-changer, enabling end-to-end testing across browsers with speed and reliability. By integrating Playwright testing into CI/CD, development teams can catch issues early, reduce manual effort, and ensure seamless deployments.
+Playwright automated testing is a game-changer, enabling end-to-end testing across browsers with speed and reliability. By integrating [Playwright testing](https://www.royalcyber.com/technologies/test-automation-consulting-services/playwright-test-automation-services/) into CI/CD, development teams can catch issues early, reduce manual effort, and ensure seamless deployments.
 
-In this blog, we’ll explore how to integrate Playwright with CI/CD, best practices for Playwright test execution, and how Royal Cyber can help optimize your testing workflows.
+In this blog, we’ll explore how to integrate [Playwright with CI/CD](https://www.royalcyber.com/blogs/test-automation/playwright-automated-testing-in-docker-with-appium/?refer=T&N=&utm_source=offpage&utm_medium=Post&utm_campaign=playwright), best practices for Playwright test execution, and how Royal Cyber can help optimize your testing workflows.
 
 Why Integrate Playwright with CI/CD?
 1. Faster Feedback Loops
